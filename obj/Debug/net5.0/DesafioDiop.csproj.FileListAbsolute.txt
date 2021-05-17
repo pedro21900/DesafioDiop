@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.exe
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.deps.json
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.runtimeconfig.json
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.dll
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\ref\DesafioDiop.dll
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\bin\Debug\net5.0\DesafioDiop.pdb
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.dll
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\ref\DesafioDiop.dll
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.pdb
+C:\Users\pedro\Desktop\Meus Repositórios\Estudo Dio\DesafioDiop\obj\Debug\net5.0\DesafioDiop.genruntimeconfig.cache
